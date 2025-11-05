@@ -21,7 +21,7 @@
       "title": "Takedown",
       "language": "English",
       "artist": "TR/X, EJAE, Audrey Nuna, REI AMI",
-      "cover": "https://i.scdn.co/image/ab67616d0000b273b63b1ac9a9d5b893f08b76c0",
+      "cover": "https://i1.sndcdn.com/artworks-XSRCkqMP5eTj1x6q-waAroA-t500x500.png",
       "src": "https://raw.githubusercontent.com/G-Aravind/Aravind/main/Takedown.mp3"
     },
     {
@@ -29,40 +29,49 @@
       "title": "Your Idol",
       "language": "Korean-English",
       "artist": "SEORI, The Boyz, Andrew Choi, Neckwav",
-      "cover": "https://i.scdn.co/image/ab67616d0000b2734b8722740b7533e801988d71",
-      "src": "https://raw.githubusercontent.com/G-Aravind/Aravind/main/Your_Idol.mp3"
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Saja_Boys_-_Your_Idol.png/250px-Saja_Boys_-_Your_Idol.png",
+      "src": "https://raw.githubusercontent.com/G-Aravind/Aravind/main/Your%20Idol.mp3"
     },
     {
       "id": 5,
       "title": "Eyes Closed (with ZAYN)",
       "language": "English",
       "artist": "JISOO, ZAYN",
-      "cover": "https://i.scdn.co/image/ab67616d0000b27371cbf55c52a3f883a3b8c6b5",
-      "src": "https://raw.githubusercontent.com/G-Aravind/Aravind/main/Eyes_Closed_with_ZAYN.mp3"
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Jisoo_and_Zayn_-_Eyes_Closed.png/250px-Jisoo_and_Zayn_-_Eyes_Closed.png",
+      "src": "https://raw.githubusercontent.com/G-Aravind/Aravind/main/Eyes%20Closed.mp3"
     },
     {
       "id": 6,
       "title": "gameboy",
       "language": "English",
       "artist": "ROSÉ",
-      "cover": "https://i.scdn.co/image/ab67616d0000b273c1a5f7f016e3e0a056b99667",
-      "src": "https://raw.githubusercontent.com/G-Aravind/Aravind/main/gameboy.mp3"
+      "cover": "https://i0.wp.com/colorcodedlyrics.com/wp-content/uploads/2024/12/rose-rosie.jpeg?w=600&ssl=1",
+      "src": "https://raw.githubusercontent.com/G-Aravind/Aravind/main/Gameboy.mp3"
     },
     {
       "id": 7,
-      "title": "Strangers",
+      "title": "Perfect Night",
       "language": "English",
-      "artist": "Kenya Grace",
-      "cover": "https://i.scdn.co/image/ab67616d0000b2738b65a0222eebadc177a64e61",
-      "src": "https://raw.githubusercontent.com/G-Aravind/Aravind/main/Strangers.mp3"
+      "artist": "Le Sserafim",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnGUc2Sl-ffVHgQtgw4LqyPjHbadi9bhpPlA&s",
+      "src": "https://raw.githubusercontent.com/G-Aravind/Aravind/main/Perfect%20Night.mp3"
     },
     {
       "id": 8,
       "title": "Urike Urike",
       "language": "Telugu",
       "artist": "M M Sreelekha, Sid Sriram, Ramya Behara",
-      "cover": "https://i.scdn.co/image/ab67616d0000b273b6b0949d15f2f99b5c3b167d",
-      "src": "https://raw.githubusercontent.com/G-Aravind/Aravind/main/Urike_Urike.mp3"
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgxxoDXytNDCrw88hnSMnuXGRiOu34hr0E3w&s",
+      "src": "https://raw.githubusercontent.com/G-Aravind/Aravind/main/Urike%20Urike.mp3"
+    },
+    
+    {
+      "id": 9,
+      "title": "Strangers",
+      "language": "English",
+      "artist": "Kenya Grace",
+      "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6a/Kenya_Grace_-_Strangers.png/250px-Kenya_Grace_-_Strangers.png",
+      "src": "https://raw.githubusercontent.com/G-Aravind/Aravind/main/Urike%20Urike.mp3"
     }
   ]
 }
